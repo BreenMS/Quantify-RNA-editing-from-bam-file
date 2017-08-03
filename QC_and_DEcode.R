@@ -1,3 +1,4 @@
+#This file contains computational R code for quality control and differential expression analysis.
 #################################################################
 ################# Load the Libraries ############################
 #################################################################
