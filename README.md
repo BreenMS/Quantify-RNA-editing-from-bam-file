@@ -1,10 +1,9 @@
-# Umbilical cord blood transcriptome analysis
-
-Data availability and code repository associated with:
-
-Gene expression in cord blood links genetic risk for neurodevelopmental disorders with maternal stress and adverse childhood outcomes
+# Gene expression in cord blood links genetic risk for neurodevelopmental disorders with maternal stress and adverse childhood outcomes
 
 Michael S. Breen, Aliza P. Wingo, Nastassja Koen, Kirsten A. Donald, Mark Nicol, Heather J. Zar, Kerry J. Ressler, Joseph D. Buxbaum, Dan J. Stein
+
+
+Data availability and code repository.
 
 Written by: Michael S. Breen <br />
 Contact: michael.breen@mssm.edu <br />
