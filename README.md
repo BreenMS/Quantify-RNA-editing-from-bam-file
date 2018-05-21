@@ -11,7 +11,7 @@ BioRxiv:https://www.biorxiv.org/content/early/2018/02/11/216309
 
 
 File descriptions: <br />
-ExprsMat.txt = Quality controlled and normalized gene expression data, covering 149 umbilical cord blood samples <br />
+ExprsMat.txt = Quality controlled and normalized gene expression matrix covering 149 umbilical cord blood samples <br />
 Metadata.txt = Meta-data file for 149 umibilical cord blood samples <br />
 QC_and_DEcode.R = Computational R code for QC and differential expression <br />
 WGCNA_Analysis.R = Computational R code for WGCNA analysis <br />
