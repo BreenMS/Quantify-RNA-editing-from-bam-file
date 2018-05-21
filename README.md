@@ -1,11 +1,15 @@
 # Umbilical-cord-blood-transcriptome-analysis
-This account contains the following:
+Data availability and code repository associated with:
 
-1. QC'd and normalized gene expression data, covering 149 umbilical cord blood samples -file pending manuscript acceptance
-2. Meta-data file for 149 umibilical cord blood samples -file pending manuscript acceptance
-2. Computational R code for QC and differential expression -QC_and_DEcode.R
-3. Computational R code for WGCNA analysis -WGCNA_Analysis.R
+Gene expression in cord blood links genetic risk for neurodevelopmental disorders with maternal stress and adverse childhood outcomes
+Michael S. Breen, Aliza P. Wingo, Nastassja Koen, Kirsten A. Donald, Mark Nicol, Heather J. Zar, Kerry J. Ressler, Joseph D. Buxbaum, Dan J. Stein
 
-Comments, questions or otherwise, feel free to contact me @ michael.breen@mssm.edu
+Written by: Michael S. Breen
+Contact: michael.breen@mssm.edu
+BioRxiv:https://www.biorxiv.org/content/early/2018/02/11/216309
 
-https://www.biorxiv.org/content/early/2017/11/08/216309
+File descriptions: 
+ExprsMat.txt     = Quality controlled and normalized gene expression data, covering 149 umbilical cord blood samples
+Metadata.txt     = Meta-data file for 149 umibilical cord blood samples
+QC_and_DEcode.R  = Computational R code for QC and differential expression
+WGCNA_Analysis.R = Computational R code for WGCNA analysis
