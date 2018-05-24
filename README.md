@@ -8,7 +8,7 @@ Data availability and code repository.
 Written by: Michael S. Breen <br />
 Contact: michael.breen@mssm.edu <br />
 BioRxiv:https://www.biorxiv.org/content/early/2018/02/11/216309 <br />
-GEO ACCESSION: GSE114852 <br />
+GEO: GSE114852 <br />
 
 
 File descriptions: <br />
