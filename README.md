@@ -7,7 +7,7 @@ Data availability and code repository.
 
 Written by: Michael S. Breen <br />
 Contact: michael.breen@mssm.edu <br />
-BioRxiv:https://www.biorxiv.org/content/early/2018/02/11/216309 <br />
+PubMed:https://www.ncbi.nlm.nih.gov/pubmed/29791872 <br />
 GEO: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE114852 <br />
 
 
