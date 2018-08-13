@@ -1,18 +1,8 @@
-# Gene expression in cord blood links genetic risk for neurodevelopmental disorders with maternal stress and adverse childhood outcomes
+# Rapid geneset preservation analysis between two experimental conditions (eg. disease cases vs. healthy controls). 
 
-Michael S. Breen, Aliza P. Wingo, Nastassja Koen, Kirsten A. Donald, Mark Nicol, Heather J. Zar, Kerry J. Ressler, Joseph D. Buxbaum, Dan J. Stein
-
-
-Data availability and code repository.
-
-Written by: Michael S. Breen <br />
+Written by: Michael S. Breen, PhD <br />
 Contact: michael.breen@mssm.edu <br />
-PubMed:https://www.ncbi.nlm.nih.gov/pubmed/29791872 <br />
-GEO: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE114852 <br />
-
 
 File descriptions: <br />
-ExprsMat.txt = Quality controlled and normalized gene expression matrix covering 149 umbilical cord blood samples <br />
-Metadata.txt = Meta-data file for 149 umibilical cord blood samples <br />
-QC_and_DEcode.R = Computational R code for QC and differential expression <br />
-WGCNA_Analysis.R = Computational R code for WGCNA analysis <br />
+RapidPreservation.R = Rscript that will execute the preservation analysis. This script has several dependencies: 1) R libraries WGCNA, GeneOverlap and clusterRepro 2) two user defined matrices (e.g. case matrix and control matrix), which as a rule of thumb should contain greater than 15 samples per matrix, and 3) a curated .gmt file of pathways to test for preservation.   <br />
+Pathways4Preservation.gmt = .gmt file of pathways to be tested <br />
