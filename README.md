@@ -1,4 +1,4 @@
-# Rapid geneset preservation analysis between two experimental conditions (eg. disease cases vs. healthy controls). 
+# Identification of RNA editing sites from mapped bam files
 
 Written by: Michael S. Breen, PhD <br />
 Contact: michael.breen@mssm.edu <br />
