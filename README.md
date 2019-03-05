@@ -1,4 +1,4 @@
-# Identify and quantifying RNA editing events from mapped bam files
+# Identify and quantify RNA editing from mapped bam files
 
 Written by: Michael S. Breen, PhD <br />
 Contact: michael.breen@mssm.edu <br />
