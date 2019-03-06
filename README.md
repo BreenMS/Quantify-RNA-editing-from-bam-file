@@ -4,7 +4,7 @@ Written by: Michael S. Breen, PhD <br />
 Contact: michael.breen@mssm.edu <br />
 
 PART 1. Identify and quantify RNA editing in each mapped bam file <br />
-Our code for quantifying RNA editing events uses a series of inter-linked perl scripts. There are four scripts, which initate the pipeline. The most effecient way to run these scripts is to set up a shell script so as to run each script sequentially. <br /> <br />
+Our code for quantifying RNA editing events uses a series of inter-linked perl scripts. There are four scripts that initate the pipeline. The most effecient way to run these scripts is to set up a shell script so as to run each script sequentially (e.g. see Rscript_1_callEditing.R). <br /> <br />
 
 Step 1. [Step1_Query_Editing_Level.pl].<br /> 
 This script will call RNA editing sites and compute editing rates across the genome for each site listed in a large RNA editing database. The user must specifiy three input files: <br /> 
