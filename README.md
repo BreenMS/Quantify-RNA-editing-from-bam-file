@@ -28,7 +28,8 @@ Usage: perl Step3_OverallEditingbyRegion.pl SampleName.bam.editing.txt > SampleN
 
 Step 4. [Step4_OverallEditingbyGeneSet.pl].<br /> 
 This script will compute a) the total number of detected sites, b) the total number of edited reads, c) the total coverage (i.e. reads overall), d) the overall editing rates based on curated genesets (e.g. glutamatergic and serotonergic receptors etc..) The user must specifiy one input file: <br /> 
-1) The input file should be the output file from Step 1 containing all sites detected and editing levels <br /> <br /> 
+1) The input file should be the output file from Step 1 containing all sites detected and editing levels <br />
+1) A two column text file that contains gene-to-geneset mapping (e.g. see Curated_GeneSets.txt) <br /> <br /> 
 
 Usage: perl Step4_OverallEditingbyGeneSet.pl Curated_GeneSets.txt SampleName.bam.editing.txt > SampleName.bam.OverallratesbyGeneSets.txt <br /> <br /> 
 
